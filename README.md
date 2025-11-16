@@ -1,9 +1,4 @@
-아래는 **전체가 하나의 Markdown 파일(Readme.md)** 로 바로 복붙 가능한 완성본입니다.
-추가 설명 없이 **그대로 복사해서 Readme.md에 넣으면 됩니다.**
 
----
-
-````markdown
 # 📘 UI Visual Element Detection + CLIP Matching Pipeline
 
 이 프로젝트는 다음 3가지를 수행하는 통합 파이프라인입니다.
